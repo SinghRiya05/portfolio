@@ -1,2 +1,2 @@
 # portfolio
-mny personal poetfolio using basics of html and css
+my personal portfolio using basics of html and css
